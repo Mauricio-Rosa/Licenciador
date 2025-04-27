@@ -1,0 +1,74 @@
+2025-04-16 23:23:11 - licence_generator - INFO - Aplicação iniciada
+2025-04-16 23:23:18 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-16 23:23:18 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\chaves\chave_privada.pem
+Pública: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\chaves\chave_publica.pem
+2025-04-16 23:23:22 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT.lic
+2025-04-16 23:23:22 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 30 dias
+2025-04-16 23:23:37 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT.lic
+2025-04-16 23:23:37 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 60 dias
+2025-04-16 23:23:45 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT.lic
+2025-04-16 23:23:45 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 90 dias
+2025-04-16 23:28:07 - licence_generator - INFO - Aplicação iniciada
+2025-04-16 23:29:41 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-16 23:29:41 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\chaves\chave_privada.pem
+Pública: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\chaves\chave_publica.pem
+2025-04-16 23:30:04 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\CSN_20250416_233004.lic
+2025-04-16 23:30:04 - licence_generator - INFO - Licença gerada para CSN com validade de 30 dias
+2025-04-16 23:30:14 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT_20250416_233014.lic
+2025-04-16 23:30:14 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 30 dias
+2025-04-16 23:30:58 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT_20250416_233058.lic
+2025-04-16 23:30:58 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 30 dias
+2025-04-16 23:31:10 - licence_generator - ERROR - Erro ao criar licença: Python int too large to convert to C int
+2025-04-16 23:31:10 - licence_generator - INFO - Status atualizado: Erro ao gerar licença
+2025-04-16 23:31:10 - licence_generator - ERROR - Erro inesperado na geração de licença: Python int too large to convert to C int
+2025-04-16 23:31:15 - licence_generator - ERROR - Erro ao criar licença: Python int too large to convert to C int
+2025-04-16 23:31:15 - licence_generator - INFO - Status atualizado: Erro ao gerar licença
+2025-04-16 23:31:15 - licence_generator - ERROR - Erro inesperado na geração de licença: Python int too large to convert to C int
+2025-04-16 23:31:18 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT_20250416_233118.lic
+2025-04-16 23:31:18 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 99999 dias
+2025-04-16 23:32:06 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:\Z_Python\Teste de licenciamento de software\Licenciamento\licence_generator\src\frontend\controllers\..\..\..\licencas\FERROPORT_20250416_233206.lic
+2025-04-16 23:32:06 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 30 dias
+2025-04-16 23:46:22 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 14:59:34 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 15:02:58 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 15:45:36 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 15:45:49 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-27 15:45:49 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:\Z_Python\Licenciador\src\frontend\controllers\..\..\..\chaves\chave_privada.pem
+Pública: C:\Z_Python\Licenciador\src\frontend\controllers\..\..\..\chaves\chave_publica.pem
+2025-04-27 15:45:57 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:/Users/Mauricio Rosa/Downloads/A_20250427_154551.lic
+2025-04-27 15:45:57 - licence_generator - INFO - Licença gerada para a com validade de 1 dias. Salva em C:/Users/Mauricio Rosa/Downloads/A_20250427_154551.lic
+2025-04-27 15:46:25 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-27 15:46:25 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:\Z_Python\Licenciador\src\frontend\controllers\..\..\..\chaves\chave_privada.pem
+Pública: C:\Z_Python\Licenciador\src\frontend\controllers\..\..\..\chaves\chave_publica.pem
+2025-04-27 15:46:29 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:/Users/Mauricio Rosa/Downloads/CSN_20250427_154626.lic
+2025-04-27 15:46:29 - licence_generator - INFO - Licença gerada para CSN com validade de 10 dias. Salva em C:/Users/Mauricio Rosa/Downloads/CSN_20250427_154626.lic
+2025-04-27 15:47:45 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 15:47:51 - licence_generator - INFO - Status atualizado: Operação de salvar chave privada cancelada pelo usuário.
+2025-04-27 15:47:51 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: None
+Pública: None
+2025-04-27 15:48:07 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-27 15:48:07 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:/Users/Mauricio Rosa/Downloads/chave_privada.pem
+Pública: C:/Users/Mauricio Rosa/Downloads/chave_publica.pem
+2025-04-27 15:48:11 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:/Users/Mauricio Rosa/Downloads/FERROPORT_20250427_154808.lic
+2025-04-27 15:48:11 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 10 dias. Salva em C:/Users/Mauricio Rosa/Downloads/FERROPORT_20250427_154808.lic
+2025-04-27 15:48:27 - licence_generator - INFO - Chaves RSA geradas com sucesso
+2025-04-27 15:48:27 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: C:/Users/Mauricio Rosa/Downloads/chave_privada.pem
+Pública: C:/Users/Mauricio Rosa/Downloads/chave_publica.pem
+2025-04-27 15:48:30 - licence_generator - INFO - Status atualizado: Licença gerada com sucesso: C:/Users/Mauricio Rosa/Downloads/FERROPORT_20250427_154828.lic
+2025-04-27 15:48:30 - licence_generator - INFO - Licença gerada para FERROPORT com validade de 10 dias. Salva em C:/Users/Mauricio Rosa/Downloads/FERROPORT_20250427_154828.lic
+2025-04-27 16:02:06 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 16:02:14 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 16:02:21 - licence_generator - INFO - Status atualizado: Operação de salvar chave privada cancelada pelo usuário.
+2025-04-27 16:02:21 - licence_generator - INFO - Status atualizado: Chaves geradas com sucesso:
+Privada: None
+Pública: None
+2025-04-27 16:03:37 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 16:04:05 - licence_generator - INFO - Aplicação iniciada
+2025-04-27 16:10:29 - licence_generator - INFO - Aplicação iniciada
