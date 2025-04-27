@@ -211,12 +211,13 @@ def validar_licenca(caminho_licenca, caminho_chave_publica):
 
 ## Compilação
 
-nuitka --standalone --onefile --enable-plugin=tk-inter --output-dir=dist main.py
+pyinstaller --onefile --windowed --add-data "chaves;chaves" --add-data "licencas;licencas" --add-data "logs;logs" --icon=icone.ico main.py
 
 ### Explicando:
 
-* `--standalone`: inclui todas as dependências
-* `--onefile`: gera um `.exe` único
-* `--enable-plugin=tk-inter`: necessário porque seu app usa interface gráfica com Tkinter
-* `--output-dir=dist`: joga o `.exe` na pasta `dist`
-* main.py (Nome do arquivo principal de execução)
+icone.ico e main.py devem estar na raiz do projeto
+
+* --onefile - compila tudo em um unico arquivo
+* --windowed = Nao mostra o terminal ao executar o app pelo .exe
+* --add-data - Adiciona as pastas necessarias parte do projeto
+* --icon - adicione o icone do projeto
